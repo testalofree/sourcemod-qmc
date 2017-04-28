@@ -32,7 +32,7 @@ then just use `!cm`. (`!cm` is a command from Public Match Server Pack from
 
 ## Installation
 
-* Put scripts/qmc.sp into addons/sourcemod/scripts
+* Put scripting/qmc.sp into addons/sourcemod/scripting
 * Put plugins/qmc.smx into addons/sourcemod/plugins (or compile it yourself :^)
 * Put translations/qmc.phrases.txt into addons/sourcemods/translations
 * Also put other qmc.phrases.txt files into their respective folders
