@@ -1,0 +1,20 @@
+"Phrases"
+{
+	"No mathing maps found for"
+	{
+		"#format"  "{1:s}"
+		"pl"       "Nie znaleziono pasujących map dla \"{1}\""
+	}
+
+	"Too many matching maps found for"
+	{
+		"#format"  "{1:s}"
+		"pl"       "Zbyt wiele pasujących map dla \"{1}\""
+	}
+
+	"Found x matching maps:"
+	{
+		"#format"  "{1:d}"
+		"pl"       "Pasujące mapy ({1}):"
+	}
+}
