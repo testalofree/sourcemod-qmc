@@ -1,7 +1,7 @@
 # Quick map changer
 
-Tired of typing full map name to change it (`!map map\_name`)? Don't like
-setting up aliases for maps (`!cm map\_shortcut`)?
+Tired of typing full map name to change it (`!map map_name`)? Don't like
+setting up aliases for maps (`!cm map_shortcut`)?
 
 I've got you covered! Quick map changer is what you're looking for.
 
@@ -10,7 +10,7 @@ I've got you covered! Quick map changer is what you're looking for.
 
 1. Just type in chat: `!qmc lkn`
 2. ???
-3. Profit, you are now playing on dm\_lockdown and you've saved 8 keystrokes!
+3. Profit, you are now playing on dm_lockdown and you've saved 8 keystrokes!
 
 Note: You might have to type more letters if you have a lot of maps with similar names.
 
