@@ -3,18 +3,18 @@
 	"No mathing maps found for"
 	{
 		"#format"  "{1:s}"
-		"en"       "No mathing maps found for \"{1}\""
+		"en"       "No se han encontrado mapas para \"{1}\""
 	}
 
 	"Too many matching maps found for"
 	{
 		"#format"  "{1:s}"
-		"en"       "Too many matching maps found for \"{1}\""
+		"en"       "Se han encontrado demasiados mapas coincidentes : \"{1}\""
 	}
 
 	"Found x matching maps:"
 	{
 		"#format"  "{1:d}"
-		"en"       "Found {1} matching maps:"
+		"en"       "Encontrado {1} mapas coincidentes:"
 	}
 }
